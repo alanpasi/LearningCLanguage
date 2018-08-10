@@ -1,3 +1,5 @@
+// https://youtu.be/9huA-RrtsQE
+//
 #include <stdio.h>
 
 int power(int m, int n);
